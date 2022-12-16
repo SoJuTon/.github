@@ -12,11 +12,10 @@ App: _추가 예정_
 <br>
 
 ## 트리 소개🤗
-||||
-|:--:|:--:|:--:|
-|![bbosiraegi](https://user-images.githubusercontent.com/71062967/208026701-7beca464-a3b7-4310-903e-23f6854c0845.png)<br>작고 소중해...<br>`뽀시래기 트리`|![energy](https://user-images.githubusercontent.com/71062967/208026704-6e605eca-77bd-40e3-951e-941d6964ea6d.png)<br>열쩡!열쩡!열쩡!<br>`열정만수르 트리`|![dog](https://user-images.githubusercontent.com/71062967/208026707-445a9034-8503-45ca-8045-683aafe941f3.png)<br>나랑 친구하자! 나랑 친구하자!<br>`댕댕 트리`|
-|![what](https://user-images.githubusercontent.com/71062967/208026706-b806f848-c911-4760-b7ea-40eb54782281.png)<br>너... 뭐... 돼..?<br>`어쩔 트리`|![sarang](https://user-images.githubusercontent.com/71062967/208026709-833a46fa-eba5-4ea0-982b-ff0871f10286.png)<br>우리 모두 사이좋게 지내자~<br>`사랑둥이 트리`|![smart](https://user-images.githubusercontent.com/71062967/208026708-d0fc30c9-2368-4adb-ab4c-3b34e1f2196f.png)<br>인생이란 끊없는 배움의 연속<br>`엣헴 트리`|
-|![fight](https://user-images.githubusercontent.com/71062967/208026710-01f1d4ed-9658-4346-9cb8-ffd5c88d1f3a.png)<br>나는 절대 지지 않지<br>`불도저 트리`|![angel](https://user-images.githubusercontent.com/71062967/208026711-f0b162c2-da60-4424-8f92-c46220dcbd5e.png)<br>내가 도와줄게~!<br>`따숩 트리`|
+|||||
+|:--:|:--:|:--:|:--:|
+|![bbosiraegi](https://user-images.githubusercontent.com/71062967/208026701-7beca464-a3b7-4310-903e-23f6854c0845.png)<br>작고 소중해...<br>`뽀시래기 트리`|![energy](https://user-images.githubusercontent.com/71062967/208026704-6e605eca-77bd-40e3-951e-941d6964ea6d.png)<br>열쩡!열쩡!열쩡!<br>`열정만수르 트리`|![dog](https://user-images.githubusercontent.com/71062967/208026707-445a9034-8503-45ca-8045-683aafe941f3.png)<br>나랑 친구하자! 나랑 친구하자!<br>`댕댕 트리`|![what](https://user-images.githubusercontent.com/71062967/208026706-b806f848-c911-4760-b7ea-40eb54782281.png)<br>너... 뭐... 돼..?<br>`어쩔 트리`|
+|![sarang](https://user-images.githubusercontent.com/71062967/208026709-833a46fa-eba5-4ea0-982b-ff0871f10286.png)<br>우리 모두 사이좋게 지내자~<br>`사랑둥이 트리`|![smart](https://user-images.githubusercontent.com/71062967/208026708-d0fc30c9-2368-4adb-ab4c-3b34e1f2196f.png)<br>인생이란 끊없는 배움의 연속<br>`엣헴 트리`|![fight](https://user-images.githubusercontent.com/71062967/208026710-01f1d4ed-9658-4346-9cb8-ffd5c88d1f3a.png)<br>나는 절대 지지 않지<br>`불도저 트리`|![angel](https://user-images.githubusercontent.com/71062967/208026711-f0b162c2-da60-4424-8f92-c46220dcbd5e.png)<br>내가 도와줄게~!<br>`따숩 트리`|
 
 <br>
 
