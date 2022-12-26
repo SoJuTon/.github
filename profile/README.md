@@ -6,8 +6,7 @@
 
 ## Deployments
 
-Web: _추가 예정_
-App: _추가 예정_
+https://tree-test-28875.web.app
 
 <br>
 
